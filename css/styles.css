@@ -6,11 +6,44 @@
 
 html {
     font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     font-size: 1.6rem;
     background-color: beige;
+}
+
+.main-header {
+    width: 700px;
+    margin: 0 auto;
+    display: flex;
+    background-color: #FF5722;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo__figure img {
+    width: 10rem;
+    height: 10rem;
+}
+
+.logo__title {
+    font-size: 5rem;
+    color: white;
+    font-weight: bold;
+}
+
+.list__item {
+    list-style: none;
+    display: inline-block;
+    color: white;
+    margin: 0 1rem;
 }
 
 .container {
