@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    background-color: beige;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+    display: grid;
+    background-color: white;
+}
+
+.articulos h1 {
+    padding: 1rem;
+}
+
+.articulos p {
+    padding: 0 1rem;
+}
