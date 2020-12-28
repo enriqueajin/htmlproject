@@ -15,7 +15,7 @@ body {
 }
 
 .main-header {
-    width: 700px;
+    width: 900px;
     margin: 0 auto;
     display: flex;
     background-color: #FF5722;
@@ -47,7 +47,7 @@ body {
 }
 
 .container {
-    width: 700px;
+    width: 900px;
     height: calc(100vh - 104px - 88px);
     margin: 0 auto;
     display: grid;
@@ -63,7 +63,7 @@ body {
 }
 
 .main-footer {
-    width: 700px;
+    width: 900px;
     display: grid;
     margin: 0 auto;
     background-color: rgb(100, 100, 100);
