@@ -54,7 +54,7 @@ body {
     background-color: white;
 }
 
-.articulos h1 {
+.articulos h1, h2 {
     padding: 3rem;
     color: #FF5722;
 }
